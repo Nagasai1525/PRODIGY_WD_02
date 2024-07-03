@@ -14,4 +14,4 @@
 
 
 
-<p>you can see the demo here &nbsp; <a href="https://nagasai1525.github.io/PRODIGY_WD_02/">DEMO </a></p>
+<p>You can view the live example here &nbsp; <a href="https://nagasai1525.github.io/PRODIGY_WD_02/">LIVE  </a></p>
